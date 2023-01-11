@@ -1,0 +1,22 @@
+table {
+    border-color: rgb(193, 52, 52);
+    border: 1px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+table tr td {
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 2px;
+}
+
+button {
+    background-color: rgb(228, 45, 45);
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    color:rgb(229, 255, 0)
+}
